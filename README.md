@@ -39,10 +39,10 @@ py.show()
 
 ```
 ## Output
-</br>
+
 ![OUTPUT](https://github.com/Nandhinijaya/Univariate-Linear-Regression/assets/121998147/7b101f00-59ce-4dfb-ab74-edcf20086e6a)
 
-</br>
+
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
