@@ -40,7 +40,7 @@ py.show()
 ```
 ## Output
 </br>
-![WhatsApp Image 2023-06-04 at 11 19 26](https://github.com/Nandhinijaya/Univariate-Linear-Regression/assets/121998147/e37915dc-592d-47c7-a978-f05b95a9d26c)
+![OUTPUT](https://github.com/Nandhinijaya/Univariate-Linear-Regression/assets/121998147/7b101f00-59ce-4dfb-ab74-edcf20086e6a)
 
 </br>
 
